@@ -1,1 +1,1 @@
-#Design patterns completed for CSCE 247: Software Engineering
+# Design patterns completed for CSCE 247: Software Engineering
